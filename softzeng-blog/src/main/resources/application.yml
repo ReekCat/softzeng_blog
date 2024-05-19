@@ -1,0 +1,4 @@
+# 指定启用环境为 开发环境 dev
+spring:
+  profiles:
+    active: prod

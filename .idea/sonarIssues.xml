@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-admin/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-admin/src/main/java/cn/softzeng/BlogAdminApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-admin/src/main/java/cn/softzeng/config/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-admin/src/main/java/cn/softzeng/controller/ArticleController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-admin/src/main/java/cn/softzeng/controller/CategoryController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-admin/src/main/java/cn/softzeng/controller/LinkController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-admin/src/main/java/cn/softzeng/controller/LoginController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-admin/src/main/java/cn/softzeng/controller/MenuController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-admin/src/main/java/cn/softzeng/controller/RoleController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-admin/src/main/java/cn/softzeng/controller/TagController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-admin/src/main/java/cn/softzeng/controller/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-admin/src/main/java/cn/softzeng/filter/JwtAuthenticationTokenFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-admin/src/main/resources/application-dev.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-admin/src/main/resources/application-prod.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-admin/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/SoftZengApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/SoftZengBlogApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/config/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/config/SwaggerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/controller/ArticleController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/controller/BlogLoginController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/controller/CategoryController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/controller/CommentController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/controller/LinkController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/controller/RoleController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/controller/UploadController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/controller/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/filter/JwtAuthenticationTokenFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/job/TestJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/job/UpdateViewConutJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/job/UpdateViewCountJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/runner/TestRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/java/cn/softzeng/runner/ViewCountRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/resources/application-dev.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/resources/application-prod.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-blog/src/test/java/cn/softzeng/OSSTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/annotation/SystemLog.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/aspect/LogAspect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/config/FastJsonRedisSerializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/config/MbatisPlusConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/config/WebConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/constants/SystemConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/ResponseResult.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/dto/AddArticleDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/dto/AddCommentDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/dto/ArticleDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/dto/CategoryDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/dto/ChangeRoleStatusDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/dto/TagListDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/dto/UpdateArticleDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/entity/Article.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/entity/ArticleTag.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/entity/Category.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/entity/Comment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/entity/Link.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/entity/LoginUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/entity/Menu.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/entity/Role.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/entity/RoleMenu.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/entity/SysRole.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/entity/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/entity/UserRole.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/AdminUserInfoVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/ArticleAdminListVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/ArticleDetailVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/ArticleListVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/BlogUserLoginVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/CategoryListVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/CategoryVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/ChangeRoleStatusDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/CommentVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/CommetVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/ExcelCategoryVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/GetArticleVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/HotArticleVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/LinkVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/ListMenuVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/MenuTreeSelectVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/MenuTreeVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/MenuVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/PageVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/RoleMenuTreeSelectVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/RoleTreeSelectVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/RoutersVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/SysRoleVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/TagAddVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/TagListDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/TagListVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/UserInfoAndRoleIdsVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/UserInfoVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/UserVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/domain/vo/articleListVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/enums/AppHttpCodeEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/exception/SystemException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/handler/exception/GlobalExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/handler/mybatisplus/MyMetaObjectHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/handler/security/AccessDeniedHandlerImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/handler/security/AuthenticationEntryPoint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/handler/security/AuthenticationEntryPointImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/mapper/ArticleMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/mapper/ArticleTagMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/mapper/CategoryMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/mapper/CommentMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/mapper/LinkMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/mapper/MenuMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/mapper/RoleMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/mapper/RoleMenuMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/mapper/SysRoleMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/mapper/TagMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/mapper/UserMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/mapper/UserRoleMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/ArticleService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/ArticleTagService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/BlogLoginService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/CategoryService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/CommentService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/LinkService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/LoginService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/MenuService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/RoleMenuService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/RoleService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/SysRoleService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/TagService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/UploadService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/UserRoleService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/ArticleServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/ArticleTagServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/BlogLoginServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/CategoryServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/CommentServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/LinkServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/LoginServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/MenuServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/OssUploadService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/PermissionService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/RoleMenuServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/RoleServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/SysRoleServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/SystemLoginServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/TagServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/UserDetailsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/UserRoleServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/service/impl/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/utils/BeanCopyUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/utils/PathUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/utils/RedisCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/utils/SecurityUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/utils/SystemConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/cn/softzeng/utils/WebUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/entity/Article.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/mapper/ArticleTagMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/mapper/CategoryMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/service/ArticleTagService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/service/CategoryService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/service/impl/ArticleTagServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/java/service/impl/CategoryServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/resources/MenuMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/resources/mapper/ArticleMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/resources/mapper/ArticleTagMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/resources/mapper/MenuMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/softzeng-framework/src/main/resources/mapper/SysRoleMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mytest/src/demo6/Test1.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-mybatis-plus/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-mybatis-plus/src/main/java/cn/softzeng/SpringbootMybatisPlusApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-mybatis-plus/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-test/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-test/src/main/java/com/miyue/fun/controller/AopController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-test/src/main/java/com/miyue/fun/dao/UserRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-test/src/main/java/com/miyue/fun/dao/UsersMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-test/src/main/java/com/miyue/fun/dao/YourEntityRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-test/src/main/java/com/miyue/fun/entity/Users.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-test/src/main/java/mapper/UsersMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-test/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springboot-test/src/test/java/com/miyue/fun/TestApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WorkFileNew/博客项目/前端部署环境/资源/前端工程/sg-blog-vue/.env.development">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WorkFileNew/博客项目/前端部署环境/资源/前端工程/sg-blog-vue/.env.production">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WorkFileNew/博客项目/前端部署环境/资源/前端工程/sg-blog-vue/config/index.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WorkFileNew/博客项目/前端部署环境/资源/前端工程/sg-blog-vue/dist/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WorkFileNew/博客项目/前端部署环境/资源/前端工程/sg-blog-vue/dist/static/css/app.css">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WorkFileNew/博客项目/前端部署环境/资源/前端工程/sg-blog-vue/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WorkFileNew/博客项目/前端部署环境/资源/前端工程/sg-blog-vue/package.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WorkFileNew/博客项目/前端部署环境/资源/前端工程/sg-blog-vue/src/components/friends.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WorkFileNew/博客项目/前端部署环境/资源/前端工程/sg-blog-vue/src/components/header.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WorkFileNew/博客项目/前端部署环境/资源/前端工程/sg-blog-vue/src/components/reward.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WorkFileNew/博客项目/前端部署环境/资源/前端工程/sg-blog-vue/src/components/rightlist.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WorkFileNew/博客项目/前端部署环境/资源/前端工程/sg-blog-vue/src/store/index.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WorkFileNew/博客项目/前端部署环境/资源/前端工程/sg-blog-vue/src/vue.config.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WorkFileNew/博客项目/前端部署环境/资源/前端工程/sg-vue-admin/.env.development">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WorkFileNew/博客项目/前端部署环境/资源/前端工程/sg-vue-admin/.env.production">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../WorkFileNew/博客项目/前端部署环境/资源/前端工程/sg-vue-admin/vue.config.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
