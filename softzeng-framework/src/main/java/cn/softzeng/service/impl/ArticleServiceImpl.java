@@ -201,6 +201,7 @@ public class ArticleServiceImpl extends ServiceImpl<ArticleMapper, Article>imple
             return ResponseResult.okResult();
         }
         removeById(Long.parseLong(id));
+        System.out.println("王五编写的代码");
         return ResponseResult.okResult();
     }
 }
